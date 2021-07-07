@@ -1,0 +1,27 @@
+button {
+    display: block;
+    margin: 0 auto;
+    padding: 0.35em 1.2em;
+    border: 3px solid white;
+    border-radius: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 50;
+    text-align: center;
+    transition: all 0.3s;
+    background-color: transparent;
+    color: white;
+}
+
+button:hover {
+    color: black;
+    background-color: white;
+}
+
+h2 {
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+body {
+    background-color: black;
+}
